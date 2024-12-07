@@ -1,6 +1,28 @@
 # Navigating the Digital Landscape: Enhancing Brand Reputation with Cutting-Edge Social Media Monitoring
+## Table of Content
+1. [Overview](#overview)
+2. [Files](#files)
+3. [Project Context](#project-context)
+4. [Aim of the Project](#aim-of-the-project)
+5. [Dataset Overview](#dataset-overview)
+6. [Features](#features)
+7. [Tools](#tools)
+8. [Instructions](#instructions)
+9. [SQL Queries](#sql-queries)
+10. [Results](#results)
+11. [Data Source](#data-source)
+12. [Contact](#contact)
 ## Overview
-The purpose of this project is to create a strong social media monitoring system in order to address the issues with AfriTech Electronics Ltd.'s brand reputation. The project uses SQL and PostgreSQL to do data transformation, querying, optimization, and analysis to deliver actionable insights.
+The purpose of this project is to create a strong social media monitoring system in order to address the issues with AfriTech Electronics Ltd.'s brand reputation. The dataset includes information about customer demographics, transaction details, social media engagement and Brand and Competitor Mentions collected between 2021 and 2023. The project uses SQL and PostgreSQL to do data transformation, querying, optimization, and analysis to deliver actionable insights.
+## Files
+- SQL queries.sql: Contains SQL queries used to analyze the dataset and answer specific business questions.
+- AfriTech_Data.csv: Data used for the analysis.
+- README.md: This file, provides an overview of the repository and instructions for accessing and using the SQL
+
+  Click 🎇[here](https://drive.google.com/drive/folders/1_efuiB3I4QGoLlf6k-mk4ZXBv3ytwlra?usp=sharing)🎇 to see these files.
+
+  Click 🎇[Medium](https://medium.com/@c.onuorahijeoma/a-data-analysis-project-sql-for-brand-resilience-how-i-helped-afritech-electronics-reclaim-its-a73847326a4b)🎇 to  view the detailed explanation of the analysis. 
+ 
 ## Project Context
 AfriTech Electronics Ltd. experienced challenges such as:
 - **Negative Customer Reviews**: High levels of discontent because of alleged problems with quality.
@@ -22,7 +44,7 @@ The project aims to monitor social media conversations, analyze sentiment, resol
 - **Views**: Pre-defined views for recurring reporting needs.
 - **Stored Procedures**: Automating repetitive tasks and enabling dynamic query execution.
 - **Performance Tuning**: Enhancing query execution speed through indexing and optimization techniques.
-## Tech Stack
+## Tools
 - PostgreSQL (v12 or higher)
 - SQL client (e.g., pgAdmin)
 ## Instructions
@@ -33,7 +55,7 @@ The project aims to monitor social media conversations, analyze sentiment, resol
    - Insert data using the provided file.
 4. Run Queries
    - Open your SQL client and execute queries from the queries folder.
-## Sample SQL Queries
+## SQL Queries
 - Sentiment Analysis
   ```SQL
   SELECT Sentiment, 
@@ -77,8 +99,9 @@ The analysis resulted in:
 The dataset and resources used was from AMDARI @AMDARI.io. The data used for this project was comprehensive, capturing every detail of customer interaction with the AfriTech brand.
 ## Contact
 - [LinkedIn](www.linkedin.com/in/ijeomaonuorah)
-- [Medium](https://medium.com/@c.onuorahijeoma/a-data-analysis-project-sql-for-brand-resilience-how-i-helped-afritech-electronics-reclaim-its-a73847326a4b)
 - [Email](c.onuorahijeoma@gmail.com)
+- [Medium](https://medium.com/@c.onuorahijeoma)
+  
 
 
  
